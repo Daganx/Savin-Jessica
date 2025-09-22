@@ -1,0 +1,33 @@
+.projects-details {
+  width: 100vw;
+  padding: 16px;
+  display: flex;
+  align-items: center;
+}
+
+.projects-details h1 {
+  font-family: "Fairplay";
+  font-size: 64px;
+  font-weight: 400;
+  padding: 16px;
+}
+
+.projects-details ul{
+    display: flex;
+    gap: 16px;
+    padding: 32px;
+    font-size: 24px;
+}
+
+.projects-details img {
+  height: 100%;
+  width: 70%;
+  border-radius: 25px;
+  object-fit: cover;
+}
+
+.projects-bio{
+    padding: 32px;
+    font-size: 1.2em;
+    text-align:justify;
+}
