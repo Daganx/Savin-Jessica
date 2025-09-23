@@ -4,7 +4,11 @@
 }
 @font-face {
   font-family: "PT Sans";
-  src: url("./assets/fonts/PT_Sans/PTSans-Regular.ttf");
+  src: url("./assets/fonts/PTSans/PTSans-Regular.ttf");
+}
+
+html, body{
+  overflow-x: hidden;
 }
 * {
   margin: 0;
