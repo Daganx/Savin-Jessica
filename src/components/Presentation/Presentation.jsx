@@ -14,15 +14,7 @@ export default function Presentation() {
           sapiente eum, numquam, eligendi quibusdam. Qui atque quia fugiat omnis
           in, quod amet nihil? Quaerat corrupti id nam in nulla dolorem fugiat
           voluptatum accusamus ducimus rerum, autem incidunt magni quas, nemo
-          eaque. Unde, repellendus dolores? Labore, repudiandae libero? Nihil
-          ipsa culpa excepturi pariatur vero ipsum! Sunt similique vitae, atque
-          soluta beatae voluptates amet. Praesentium voluptates aliquam nesciunt
-          qui dignissimos obcaecati eum vitae, corporis autem dicta. Ut nostrum,
-          excepturi ullam sequi veritatis expedita vel nemo nesciunt. Nobis
-          expedita ex aperiam sequi totam eaque, maiores harum quos id laborum
-          officiis animi ut, vitae fugiat ea consequuntur libero. Magnam,
-          deserunt? Consequatur veritatis quidem possimus est quas beatae,
-          dolores ab quos. Consequuntur modi ea ipsa? Cupiditate.
+          eaque. Unde, repellendus dolores? Labore, repudiandae libero.
         </h3>
       </div>
       <div className="presentation-img">

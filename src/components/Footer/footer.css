@@ -55,3 +55,9 @@
 .footer-socials ul li {
   margin-right: 5vw;
 }
+
+@media screen and (max-width: 475px){
+  .footer-logo{
+    display: none;
+  }
+}

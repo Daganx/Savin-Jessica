@@ -1,5 +1,6 @@
 import { useParams } from "react-router-dom";
 import projects from "../../data/projects";
+import Separator from "../Separator/Separator";
 import "./projectsDetails.css";
 
 export default function ProjectDetails() {
@@ -26,6 +27,7 @@ export default function ProjectDetails() {
           <p className="projects-bio">{project.description}</p>
         </div>
       </section>
+      <Separator />
     </>
   );
 }

@@ -51,3 +51,9 @@
 .navbar-links ul li a:hover::after {
   width: 100%;
 }
+
+@media screen and (max-width: 375px){
+  .navbar-links ul li {
+    font-size: 1.2rem;
+  }
+}
