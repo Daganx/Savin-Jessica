@@ -12,11 +12,11 @@
   padding: 16px;
 }
 
-.projects-details ul{
-    display: flex;
-    gap: 16px;
-    padding: 32px;
-    font-size: 24px;
+.projects-details ul {
+  display: flex;
+  gap: 16px;
+  padding: 32px;
+  font-size: 24px;
 }
 
 .projects-details img {
@@ -26,8 +26,8 @@
   object-fit: cover;
 }
 
-.projects-bio{
-    padding: 32px;
-    font-size: 1.2em;
-    text-align:justify;
+.projects-bio {
+  padding: 32px;
+  font-size: 1.2em;
+  text-align: justify;
 }

@@ -1,6 +1,6 @@
 import Hero from "../components/Hero/Hero";
 import Presentation from "../components/Presentation/Presentation";
-import Projects from "../components/LatestProjects/LatestProjects";
+import LatestProjects from "../components/LatestProjects/LatestProjects";
 import Separator from "../components/Separator/Separator";
 
 export default function Home() {
@@ -10,7 +10,7 @@ export default function Home() {
       <Separator />
       <Presentation />
       <Separator />
-      <Projects />
+      <LatestProjects />
       <Separator />
     </>
   );

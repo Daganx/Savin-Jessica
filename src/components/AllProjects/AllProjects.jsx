@@ -27,7 +27,7 @@ export default function AllProjects() {
       {projects.map((project, index) => (
         <Link
           key={project.id}
-          to={`/projects/${project.id}`} // 🔥 lien dynamique
+          to={`/projects/${project.id}`} 
           className="project-card"
           onMouseEnter={() => setHoveredIndex(index)}
           onMouseLeave={() => setHoveredIndex(null)}

@@ -52,7 +52,9 @@ export default function LatestProjects() {
                 <p>{project.price}</p>
                 <p>{project.time}</p>
               </div>
-              <p className="project-content-description">{project.description}</p>
+              <p className="project-content-description">
+                {project.description}
+              </p>
             </div>
           </Link>
         ))}

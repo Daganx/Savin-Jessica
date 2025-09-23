@@ -23,10 +23,7 @@ export default function ProjectDetails() {
             <li>Prix: {project.price}</li>
             <li>Durée: {project.time}</li>
           </ul>
-          <p className="projects-bio">
-            {project.description}
-          </p>
-          
+          <p className="projects-bio">{project.description}</p>
         </div>
       </section>
     </>

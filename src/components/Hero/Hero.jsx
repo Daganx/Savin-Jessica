@@ -1,7 +1,11 @@
 import hero from "../../assets/images/hero/hero.jpg";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faFacebook, faLinkedin, faInstagram } from "@fortawesome/free-brands-svg-icons";
+import {
+  faFacebook,
+  faLinkedin,
+  faInstagram,
+} from "@fortawesome/free-brands-svg-icons";
 
 import "./hero.css";
 

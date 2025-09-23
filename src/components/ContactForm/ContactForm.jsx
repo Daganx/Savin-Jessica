@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React, { useState } from "react";
 import emailjs from "emailjs-com";
 
@@ -23,10 +24,10 @@ export default function ContactForm() {
 
     emailjs
       .send(
-        "service_rcgysxo", // ton service EmailJS
-        "template_rd8x9w2", // template mail
+        "service_rcgysxo", 
+        "template_rd8x9w2", 
         formData,
-        "QNXHeYKYn-ezFuwra" // clé publique EmailJS
+        "QNXHeYKYn-ezFuwra"
       )
       .then(
         (result) => {
