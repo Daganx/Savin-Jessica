@@ -21,10 +21,16 @@
   padding: 16px;
 }
 
+.contact-text h1{
+  font-size: 48px;
+  font-family: 'PTsans';
+  font-weight: 400;
+}
+
 .contact-text h2 {
-  padding-top: 16px;
-  padding-left: 16px;
-  padding-right: 16px;
+  padding-top: 32px;
+  padding-left: 32px;
+  padding-right: 32px;
   font-weight: 400;
 }
 

@@ -43,7 +43,6 @@ export default function AllProjects() {
               className="project-image"
             />
             <div className="project-content">
-              <h3>{project.title}</h3>
               <div className="project-content-hashtag">
                 <p>{project.prestation}</p>
                 <p>{project.customer}</p>

@@ -16,6 +16,7 @@ export default function Contact() {
     <>
       <section className="contact">
         <div className="contact-text">
+          <h1>Contactez-moi :</h1>
           <h2>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque
             harum, adipisci, at nemo pariatur odio recusandae exercitationem

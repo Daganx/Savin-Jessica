@@ -2,7 +2,7 @@
   width: 100vw;
   padding: 16px;
   display: flex;
-  align-items: center;
+  align-items:flex-start;
 }
 
 .projects-details h1 {
@@ -45,6 +45,7 @@
   .projects-details {
     display: flex;
     flex-direction: column;
+    align-items: center;
   }
   .projects-details img {
     width: 100%;
@@ -54,6 +55,9 @@
   }
   .projects-details ul {
     justify-content: center;
+  }
+  .projects-text{
+    width: 100%;
   }
 }
 
